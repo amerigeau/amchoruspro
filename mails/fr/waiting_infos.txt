@@ -1,0 +1,23 @@
+{shop_url}
+
+Bonjour {firstname} {lastname},
+
+Merci d'avoir effectué vos achats sur {shop_name}!
+
+Identifiant de commande {order_name} - En attente de paiement Chorus Pro
+
+Votre commande ayant pour référence {order_name} a bien été prise en compte, elle sera expédiée dès réception de votre paiement.
+
+Moyen de paiement : Chorus Pro
+
+IMPORTANT : informations à nous envoyer pour valider la commande : 
+
+{chorus_content}
+
+Suivez votre commande et téléchargez votre facture sur notre site, rendez-vous dans la section [Historique et détails de mes commandes]({history_url}) de votre compte client.
+
+Si vous avez un compte invité, vous pouvez suivre votre commande via la section [Suivi invité]({guest_tracking_url}) sur notre boutique.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)
