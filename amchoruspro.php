@@ -45,6 +45,7 @@ class AMchoruspro extends PaymentModule
         $this->version = '1.0.0';
         $this->author = 'Arnaud Merigeau';
         $this->controllers = array('payment', 'validation');
+        $this->module_key = '6b0eae7ec9d5e7e32db7a33743407146';
 
         $this->currencies = true;
         $this->currencies_mode = 'checkbox';
